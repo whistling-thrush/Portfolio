@@ -1,0 +1,34 @@
+
+body {
+    background-color: #d9ab9a;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    display: flex;
+    scroll-behavior: smooth, 0.5s;
+}
+
+.about-me {
+    font-family:'Courier New', Courier, monospace;
+    color: antiquewhite;
+    align-items: flex-end;
+    justify-content: center;
+    display: flex;
+    margin-top: 50vh;
+}
+
+.about-me-text {
+    font-size: 3rem;
+    margin: 1000px;
+    padding: 0px;
+}
+
+.underline {
+    height: 3px;
+    width: 15em;
+    margin: auto;
+    margin-top: -5px;
+    background-color: antiquewhite;
+}
